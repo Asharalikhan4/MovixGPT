@@ -68,3 +68,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Features
+
+- It will be mixture of the Netflix and Chat GPT.
+
+exmaple prompts - 
+- Suggest me some funny movies.
+- Suggest me some movies that are like 3 idiots.
+
+1. How authenticaiton works. (Using firbase)
+2. Protected routes.
+3. Form Handling.
+4. Sign-in/Sign-up
+
+
+#### App Flow
+- Created app using create react app
+- Configured tailwind css.
+- UI Planning.
+
+
+
+#### UI
+- Login/Signin
+    - Signin/Signup form.
+    - Once signin or signup it will redirect to landing page.
+- Landing page (After Authentication)
+    - Header
+    - Running Movie
+        - Tailer in Background.
+        - Title and description.
+        - Movie's suggestions.
+            - Movie's list * N.
+- MovixGPT
+    - Search bar.
+    - Movie Suggestion.
