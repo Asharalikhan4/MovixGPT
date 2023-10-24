@@ -83,12 +83,16 @@ exmaple prompts -
 2. Protected routes.
 3. Form Handling.
 4. Sign-in/Sign-up
+5. Custom Form Validation (If you have large forms in your website then it's good to use formik or any other form validation package.)
 
 
-#### App Flow
+#### App Development Flow
 - Created app using create react app
 - Configured tailwind css.
 - UI Planning.
+- Header.
+- Login Form.
+- Signup Form.
 
 
 
