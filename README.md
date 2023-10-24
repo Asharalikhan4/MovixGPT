@@ -83,7 +83,9 @@ exmaple prompts -
 2. Protected routes.
 3. Form Handling.
 4. Sign-in/Sign-up
-5. Custom Form Validation (If you have large forms in your website then it's good to use formik or any other form validation package.)
+5. Custom Form Validation on button click. (If you have large forms in your website then it's good to use formik or any other form validation package.)
+6. UseRef hook.
+7. FireBase backend.
 
 
 #### App Development Flow
@@ -91,10 +93,12 @@ exmaple prompts -
 - Configured tailwind css.
 - UI Planning.
 - Header.
+- App Routing.
 - Login Form.
 - Signup Form.
-
-
+- Form validation.
+- FireBase Setup.
+- Create Signup Functionality.
 
 #### UI
 - Login/Signin
