@@ -86,6 +86,7 @@ exmaple prompts -
 5. Custom Form Validation on button click. (If you have large forms in your website then it's good to use formik or any other form validation package.)
 6. UseRef hook.
 7. FireBase backend.
+8. Redux state management
 
 
 #### App Development Flow
@@ -98,7 +99,11 @@ exmaple prompts -
 - Signup Form.
 - Form validation.
 - FireBase Setup.
-- Create Signup Functionality.
+- Create SignUp Functionality.
+- Create SignIn Functionality.
+- As soon as user login/SignUp, set that data in our redux store and navigate user to main page.
+- Redux implemented.
+- SignOut implemented.
 
 #### UI
 - Login/Signin
