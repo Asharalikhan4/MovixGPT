@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-# Features
+### Features
 
 - It will be mixture of the Netflix and Chat GPT.
 
@@ -87,6 +87,8 @@ exmaple prompts -
 6. UseRef hook.
 7. FireBase backend.
 8. Redux state management
+9. if user is logged in, it can't go to the login page
+10. if user is not logged in then it won't be able to access landing page.
 
 
 #### App Development Flow
@@ -104,6 +106,9 @@ exmaple prompts -
 - As soon as user login/SignUp, set that data in our redux store and navigate user to main page.
 - Redux implemented.
 - SignOut implemented.
+- Add hard coded value in the constant file.
+- Registered for TMDB Api.
+- Fetch movie from TMDB Api.
 
 #### UI
 - Login/Signin
